@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+   .container {
+     width: 100%;
+     padding: 20px;
+   }
+ 
+   .header {
+     font-size: 20px;
+   }
+ 
+   .input img {
+     width: 20px;
+     height: 20px;
+   }
+ 
+   .input input {
+     font-size: 14px;
+   }
+ }
